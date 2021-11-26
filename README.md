@@ -3,7 +3,7 @@ PyPC is a very simple tool that creates Python projects from templates. In 0.1v#
 
 ## Setup & Running
 ```
-$ git clone https://github.com/art3m1s-dev/PyPC/
+$ git clone https://github.com/art3m1s-dev/PyPC.git
 $ cd PyPC
 $ pip3 install requirements.txt
 
